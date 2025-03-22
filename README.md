@@ -13,7 +13,7 @@ This Project a dummy project for practicing
 - GitHub
 - CLI
 
-## HomePage
+## HomePage [Odin-Recipes](https://basu4100.github.io/odin-recipes/)
 Homepage contains the heading and links to other web pages
 
 ## Recipes
