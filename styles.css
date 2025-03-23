@@ -1,0 +1,20 @@
+* {
+    margin: 10px;
+}
+
+.heading {
+    font-family: "Papyrus", "Copperplate", fantasy;
+}
+
+.dish {
+    padding: 20px;
+    list-style-type: none;
+    background-color: rgb(0, 99, 0);
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 24px;
+}
+
+.links {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
